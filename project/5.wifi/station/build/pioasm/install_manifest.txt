@@ -1,0 +1,5 @@
+/home/vishwas/pico/project/5.wifi/station/build/pioasm-install/pioasm/pioasm
+/home/vishwas/pico/project/5.wifi/station/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/vishwas/pico/project/5.wifi/station/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/vishwas/pico/project/5.wifi/station/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/vishwas/pico/project/5.wifi/station/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

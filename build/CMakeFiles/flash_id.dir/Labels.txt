@@ -1,0 +1,13 @@
+# Target labels
+ flash_id
+# Source files and their labels
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id-complete.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-build.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-configure.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-download.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-install.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-mkdir.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-patch.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-update.rule

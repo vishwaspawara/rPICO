@@ -1,0 +1,5 @@
+add_subdirectory_exclude_platforms(1.morse)
+add_subdirectory_exclude_platforms(2.io)
+add_subdirectory_exclude_platforms(3.sort)
+add_subdirectory_exclude_platforms(4.m2)
+add_subdirectory_exclude_platforms(5.wifi)

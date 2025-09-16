@@ -1,0 +1,7 @@
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/pioasm.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/edit_cache.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/list_install_components.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/install.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/install/local.dir
+/home/vishwas/pico/project/2.io/build/pioasm/CMakeFiles/install/strip.dir

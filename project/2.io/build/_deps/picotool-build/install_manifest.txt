@@ -1,0 +1,7 @@
+/home/vishwas/pico/project/2.io/build/_deps/picotool/picotool
+/home/vishwas/pico/project/2.io/build/_deps/picotool/picotoolTargets.cmake
+/home/vishwas/pico/project/2.io/build/_deps/picotool/picotoolTargets-release.cmake
+/home/vishwas/pico/project/2.io/build/_deps/picotool/picotoolConfig.cmake
+/home/vishwas/pico/project/2.io/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/vishwas/pico/project/2.io/build/_deps/picotool/enc_bootloader.elf
+/home/vishwas/pico/project/2.io/build/_deps/picotool/enc_bootloader_mbedtls.elf

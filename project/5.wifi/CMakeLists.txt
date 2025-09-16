@@ -1,0 +1,3 @@
+add_subdirectory_exclude_platforms(access_point)
+add_subdirectory_exclude_platforms(station)
+add_subdirectory_exclude_platforms(udp)

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/flash_id-complete.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-build.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-configure.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-download.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-install.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-mkdir.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-patch.rule"
+		},
+		{
+			"file" : "/home/vishwas/Vault/1.Projects/PICO/pico/build/picoboot_flash_id/src/flash_id-stamp/flash_id-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"flash_id"
+		],
+		"name" : "flash_id"
+	}
+}

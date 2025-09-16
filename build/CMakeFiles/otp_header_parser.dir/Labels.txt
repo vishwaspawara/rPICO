@@ -1,0 +1,13 @@
+# Target labels
+ otp_header_parser
+# Source files and their labels
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/otp_header_parser
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/otp_header_parser.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/CMakeFiles/otp_header_parser-complete.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-build.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-configure.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-download.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-install.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-mkdir.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-patch.rule
+/home/vishwas/Vault/1.Projects/PICO/pico/build/otp_header_parser/src/otp_header_parser-stamp/otp_header_parser-update.rule
